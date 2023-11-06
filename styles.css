@@ -1,0 +1,14 @@
+/* one column */
+#one-column .card {
+    width: 100%; 
+    max-width: none; 
+}
+  
+#one-column .card .card-img-top {
+    object-fit: cover; 
+    width: 100%; 
+}
+  
+#one-column .card .card-body {
+    width: 100%; 
+}
